@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="6" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-31T14:01:54Z" name="Default suite" finished-at="2023-07-31T14:02:08Z" duration-ms="13818">
+    <groups>
+    </groups>
+    <test started-at="2023-07-31T14:01:54Z" name="Default test" finished-at="2023-07-31T14:02:08Z" duration-ms="13818">
+      <class name="OPENEMR.Clinical.TestPage.TestPage">
+        <test-method is-config="true" signature="setup()[pri:0, instance:OPENEMR.Clinical.TestPage.TestPage@68f4865]" started-at="2023-07-31T14:01:54Z" name="setup" finished-at="2023-07-31T14:01:59Z" duration-ms="5495" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginPageTest()[pri:0, instance:OPENEMR.Clinical.TestPage.TestPage@68f4865]" started-at="2023-07-31T14:01:59Z" name="loginPageTest" finished-at="2023-07-31T14:02:04Z" duration-ms="4921" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTest -->
+        <test-method signature="newPatient()[pri:1, instance:OPENEMR.Clinical.TestPage.TestPage@68f4865]" started-at="2023-07-31T14:02:04Z" name="newPatient" finished-at="2023-07-31T14:02:08Z" duration-ms="3386" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newPatient -->
+      </class> <!-- OPENEMR.Clinical.TestPage.TestPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
